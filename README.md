@@ -1,2 +1,2 @@
 # e-Commerce-Website
-e-commerce website using mysql,html,php,bootstrap.
+e-commerce website using MySQL, HTML, CSS, PHP and Bootstrap.
